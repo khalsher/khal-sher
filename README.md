@@ -6,7 +6,7 @@
 
 <h2 align="center">Leetcode Info<h2>  
 
-  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/its-nishant320?theme=dark&font=Nunito&ext=heatmap" />  
+  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/mohfazam?theme=dark&font=Nunito&ext=heatmap" />  
 </p>
 
 
